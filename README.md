@@ -1,13 +1,15 @@
-opam-dockerfiles
-=================
+Distribution | Available Switches | Command
 
-This repository contains a set of branches that each contain a different
-combination of Dockerfiles on different distributions.  The intention is to
-make the [OPAM](https://opam.ocaml.org) source code package manager easily
-available via the Docker Hub, so that it can be used in automated testing of
-OPAM and OCaml packages using services such as Travis CI.
+------------ | ------------------ | -------
 
-This service is still experimental.
-Please contact Anil Madhavapeddy <anil@recoil.org> if you have any queries
-about it.
+ubuntu-14.04 | `4.01.0` (system), `4.02.3` (default) | `docker pull ocaml/opam:ubuntu-14.04`
 
+debian-stable | `4.01.0` (system), `4.02.3` (default) | `docker pull ocaml/opam:debian-stable`
+
+fedora-23 | `4.02.2` (system), `4.02.3` (default) | `docker pull ocaml/opam:fedora-23`
+
+centos-7 | `4.02.3` (default) | `docker pull ocaml/opam:centos-7`
+
+oraclelinux-7 | `4.02.3` (default) | `docker pull ocaml/opam:oraclelinux-7`
+
+alpine-3.3 | `4.02.3` (system, default) | `docker pull ocaml/opam:alpine-3.3`
