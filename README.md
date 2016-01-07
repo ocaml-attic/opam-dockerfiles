@@ -15,6 +15,8 @@ There are also individual containers available for each combination
    versions for as long as the upstream distribution is supported.  Note that
    older releases may have security issues if upstream stops maintaining them.
 
+Distribution | Available Switches | Command
+------------ | ------------------ | -------
 ubuntu-12.04 | TODO | `docker pull ocaml/opam:ubuntu-12.04`
 ubuntu-14.04 | TODO | `docker pull ocaml/opam:ubuntu-14.04`
 ubuntu-15.10 | TODO | `docker pull ocaml/opam:ubuntu-15.10`
