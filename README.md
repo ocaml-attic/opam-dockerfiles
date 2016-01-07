@@ -17,55 +17,55 @@ There are also individual containers available for each combination
 
 Distribution | Available Switches | Command
 ------------ | ------------------ | -------
-ubuntu-12.04 | TODO | `docker pull ocaml/opam:ubuntu-12.04`
-ubuntu-14.04 | TODO | `docker pull ocaml/opam:ubuntu-14.04`
-ubuntu-15.10 | TODO | `docker pull ocaml/opam:ubuntu-15.10`
-ubuntu-16.04 | TODO | `docker pull ocaml/opam:ubuntu-16.04`
-debian-stable | TODO | `docker pull ocaml/opam:debian-stable`
-debian-testing | TODO | `docker pull ocaml/opam:debian-testing`
-debian-unstable | TODO | `docker pull ocaml/opam:debian-unstable`
-fedora-22 | TODO | `docker pull ocaml/opam:fedora-22`
-fedora-23 | TODO | `docker pull ocaml/opam:fedora-23`
-centos-6 | TODO | `docker pull ocaml/opam:centos-6`
-centos-7 | TODO | `docker pull ocaml/opam:centos-7`
-oraclelinux-7 | TODO | `docker pull ocaml/opam:oraclelinux-7`
-alpine-3.3 | TODO | `docker pull ocaml/opam:alpine-3.3`
-ubuntu-12.04 | TODO | `docker pull ocaml/opam:ubuntu-12.04`
-ubuntu-14.04 | TODO | `docker pull ocaml/opam:ubuntu-14.04`
-ubuntu-15.10 | TODO | `docker pull ocaml/opam:ubuntu-15.10`
-ubuntu-16.04 | TODO | `docker pull ocaml/opam:ubuntu-16.04`
-debian-stable | TODO | `docker pull ocaml/opam:debian-stable`
-debian-testing | TODO | `docker pull ocaml/opam:debian-testing`
-debian-unstable | TODO | `docker pull ocaml/opam:debian-unstable`
-fedora-22 | TODO | `docker pull ocaml/opam:fedora-22`
-fedora-23 | TODO | `docker pull ocaml/opam:fedora-23`
-centos-6 | TODO | `docker pull ocaml/opam:centos-6`
-centos-7 | TODO | `docker pull ocaml/opam:centos-7`
-oraclelinux-7 | TODO | `docker pull ocaml/opam:oraclelinux-7`
-alpine-3.3 | TODO | `docker pull ocaml/opam:alpine-3.3`
-ubuntu-12.04 | TODO | `docker pull ocaml/opam:ubuntu-12.04`
-ubuntu-14.04 | TODO | `docker pull ocaml/opam:ubuntu-14.04`
-ubuntu-15.10 | TODO | `docker pull ocaml/opam:ubuntu-15.10`
-ubuntu-16.04 | TODO | `docker pull ocaml/opam:ubuntu-16.04`
-debian-stable | TODO | `docker pull ocaml/opam:debian-stable`
-debian-testing | TODO | `docker pull ocaml/opam:debian-testing`
-debian-unstable | TODO | `docker pull ocaml/opam:debian-unstable`
-fedora-22 | TODO | `docker pull ocaml/opam:fedora-22`
-fedora-23 | TODO | `docker pull ocaml/opam:fedora-23`
-centos-6 | TODO | `docker pull ocaml/opam:centos-6`
-centos-7 | TODO | `docker pull ocaml/opam:centos-7`
-oraclelinux-7 | TODO | `docker pull ocaml/opam:oraclelinux-7`
-alpine-3.3 | TODO | `docker pull ocaml/opam:alpine-3.3`
-ubuntu-12.04 | TODO | `docker pull ocaml/opam:ubuntu-12.04`
-ubuntu-14.04 | TODO | `docker pull ocaml/opam:ubuntu-14.04`
-ubuntu-15.10 | TODO | `docker pull ocaml/opam:ubuntu-15.10`
-ubuntu-16.04 | TODO | `docker pull ocaml/opam:ubuntu-16.04`
-debian-stable | TODO | `docker pull ocaml/opam:debian-stable`
-debian-testing | TODO | `docker pull ocaml/opam:debian-testing`
-debian-unstable | TODO | `docker pull ocaml/opam:debian-unstable`
-fedora-22 | TODO | `docker pull ocaml/opam:fedora-22`
-fedora-23 | TODO | `docker pull ocaml/opam:fedora-23`
-centos-6 | TODO | `docker pull ocaml/opam:centos-6`
-centos-7 | TODO | `docker pull ocaml/opam:centos-7`
-oraclelinux-7 | TODO | `docker pull ocaml/opam:oraclelinux-7`
-alpine-3.3 | TODO | `docker pull ocaml/opam:alpine-3.3`
+ubuntu-12.04 | `3.12.1` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-12.04`
+ubuntu-14.04 | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-14.04`
+ubuntu-15.10 | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-15.10`
+ubuntu-16.04 | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-16.04`
+debian-stable | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:debian-stable`
+debian-testing | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:debian-testing`
+debian-unstable | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:debian-unstable`
+fedora-22 | `4.02.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:fedora-22`
+fedora-23 | `4.02.2` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:fedora-23`
+centos-6 | `4.02.3` &#127347; | `docker pull ocaml/opam:centos-6`
+centos-7 | `4.02.3` &#127347; | `docker pull ocaml/opam:centos-7`
+oraclelinux-7 | `4.02.3` &#127347; | `docker pull ocaml/opam:oraclelinux-7`
+alpine-3.3 | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:alpine-3.3`
+ubuntu-12.04 | `3.12.1` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-12.04`
+ubuntu-14.04 | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-14.04`
+ubuntu-15.10 | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-15.10`
+ubuntu-16.04 | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-16.04`
+debian-stable | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:debian-stable`
+debian-testing | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:debian-testing`
+debian-unstable | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:debian-unstable`
+fedora-22 | `4.02.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:fedora-22`
+fedora-23 | `4.02.2` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:fedora-23`
+centos-6 | `4.02.3` &#127347; | `docker pull ocaml/opam:centos-6`
+centos-7 | `4.02.3` &#127347; | `docker pull ocaml/opam:centos-7`
+oraclelinux-7 | `4.02.3` &#127347; | `docker pull ocaml/opam:oraclelinux-7`
+alpine-3.3 | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:alpine-3.3`
+ubuntu-12.04 | `3.12.1` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-12.04`
+ubuntu-14.04 | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-14.04`
+ubuntu-15.10 | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-15.10`
+ubuntu-16.04 | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-16.04`
+debian-stable | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:debian-stable`
+debian-testing | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:debian-testing`
+debian-unstable | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:debian-unstable`
+fedora-22 | `4.02.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:fedora-22`
+fedora-23 | `4.02.2` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:fedora-23`
+centos-6 | `4.02.3` &#127347; | `docker pull ocaml/opam:centos-6`
+centos-7 | `4.02.3` &#127347; | `docker pull ocaml/opam:centos-7`
+oraclelinux-7 | `4.02.3` &#127347; | `docker pull ocaml/opam:oraclelinux-7`
+alpine-3.3 | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:alpine-3.3`
+ubuntu-12.04 | `3.12.1` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-12.04`
+ubuntu-14.04 | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-14.04`
+ubuntu-15.10 | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:ubuntu-15.10`
+ubuntu-16.04 | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-16.04`
+debian-stable | `4.01.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:debian-stable`
+debian-testing | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:debian-testing`
+debian-unstable | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:debian-unstable`
+fedora-22 | `4.02.0` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:fedora-22`
+fedora-23 | `4.02.2` &#127362;, `4.02.3` &#127347; | `docker pull ocaml/opam:fedora-23`
+centos-6 | `4.02.3` &#127347; | `docker pull ocaml/opam:centos-6`
+centos-7 | `4.02.3` &#127347; | `docker pull ocaml/opam:centos-7`
+oraclelinux-7 | `4.02.3` &#127347; | `docker pull ocaml/opam:oraclelinux-7`
+alpine-3.3 | `4.02.3` &#127362;&#127347; | `docker pull ocaml/opam:alpine-3.3`
