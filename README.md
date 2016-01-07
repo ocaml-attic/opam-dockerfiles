@@ -1,7 +1,4 @@
-The latest stable distributions are summarised below.
-   The default OCaml version available in the container is marked with a &#127347; symbol,
-   and a system installation of OCaml (as opposed to a locally compiled
-   switch) is marked with a &#127362; symbol.
+The latest stable distributions are summarised below.  The default OCaml version available in the container is marked with a &#127347; symbol, and a system installation of OCaml (as opposed to a locally compiled switch) is marked with a &#127362; symbol.
 
 Distribution | Available Switches | Command
 ------------ | ------------------ | -------
