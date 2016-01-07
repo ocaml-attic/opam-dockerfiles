@@ -10,6 +10,15 @@ docker run -ti ocaml/opam bash
 docker run ocaml/opam:ubuntu-14.04_ocaml-4.02.3 opam depext -i cohttp lwt ssl
 ```
 
+Distributions
+==========
+
+The default `latest` tag points to the following distribution:
+
+Distribution | Available Switches | Command
+------------ | ------------------ | -------
+Debian | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam`
+
 The latest stable distributions are summarised below.  The default OCaml version available in the container is marked with a &#127347; symbol, and a system installation of OCaml (as opposed to a locally compiled switch) is marked with a &#127362; symbol.
 
 Distribution | Available Switches | Command
