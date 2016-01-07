@@ -1,7 +1,9 @@
 This repository contains a set of [Docker](http://docker.com) container definitions for various combination of [OCaml](https://ocaml.org) and the [OPAM](https://opam.ocaml.org) package manager.  The containers all come preinstalled with a working compiler and an OPAM environment.  Using it as simple as:
 
-```docker pull ocaml/opam
-docker run -ti ocaml/opam bash```
+```
+docker pull ocaml/opam
+docker run -ti ocaml/opam bash
+```
 
 ...to get a working development environment.
 
