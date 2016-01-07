@@ -82,4 +82,4 @@ CentOS 7 with OCaml 4.02.3 &#127347; | `docker pull ocaml/opam:centos-7`
 OracleLinux 7 with OCaml 4.02.3 &#127347; | `docker pull ocaml/opam:oraclelinux-7`
 Alpine 3.3 with OCaml 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-3.3`
 
-To discuss these containers, please e-mail Anil Madhavapeddy <anil@recoil.org> or the OPAM development list at <opam-devel@lists.ocaml.org>.
+To discuss these containers, please e-mail Anil Madhavapeddy <anil@recoil.org> or the OPAM development list at <opam-devel@lists.ocaml.org>. Contributions of Dockerfiles for additional OS distributions are most welcome!
