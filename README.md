@@ -15,7 +15,7 @@ The latest stable distributions are summarised below.  The default OCaml version
 Distribution | Available Switches | Command
 ------------ | ------------------ | -------
 Alpine | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine`
-CentOS | 4.02.3 &#127347; | `docker pull ocaml/opam:centos`
+CentOS | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:centos`
 Debian | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:debian`
 Fedora | 4.02.2 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:fedora`
 OracleLinux | 4.02.3 &#127347; | `docker pull ocaml/opam:oraclelinux`
@@ -38,9 +38,21 @@ CentOS 6 | 4.01.0 &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.01.0`
 CentOS 6 | 4.02.3 &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.02.3`
 CentOS 6 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.03.0_trunk`
 CentOS 7 | 4.00.1 &#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.00.1`
-CentOS 7 | 4.01.0 &#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.01.0`
+CentOS 7 | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.01.0`
 CentOS 7 | 4.02.3 &#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.02.3`
 CentOS 7 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.03.0_trunk`
+Debian 7 (Wheezy) | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.00.1`
+Debian 7 (Wheezy) | 4.01.0 &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.01.0`
+Debian 7 (Wheezy) | 4.02.3 &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.02.3`
+Debian 7 (Wheezy) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.03.0_trunk`
+Debian 8 (Jessie) | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.00.1`
+Debian 8 (Jessie) | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.01.0`
+Debian 8 (Jessie) | 4.02.3 &#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.02.3`
+Debian 8 (Jessie) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.03.0_trunk`
+Debian 9 (Stretch) | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.00.1`
+Debian 9 (Stretch) | 4.01.0 &#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.01.0`
+Debian 9 (Stretch) | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.02.3`
+Debian 9 (Stretch) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.03.0_trunk`
 Debian Stable | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-stable_ocaml-4.00.1`
 Debian Stable | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:debian-stable_ocaml-4.01.0`
 Debian Stable | 4.02.3 &#127347; | `docker pull ocaml/opam:debian-stable_ocaml-4.02.3`
