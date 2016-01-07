@@ -5,7 +5,10 @@ docker pull ocaml/opam
 docker run -ti ocaml/opam bash
 ```
 
-...to get a working development environment.
+...to get a working development environment.  You can grab a specific distribution and test out external dependencies as well:
+```
+docker run ocaml/opam:ubuntu-14.04_ocaml-4.02.3 opam depext -i cohttp lwt ssl
+```
 
 The latest stable distributions are summarised below.  The default OCaml version available in the container is marked with a &#127347; symbol, and a system installation of OCaml (as opposed to a locally compiled switch) is marked with a &#127362; symbol.
 
