@@ -107,7 +107,7 @@ Ubuntu 16.04 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:ubuntu-16.04_oca
 Using the Containers
 ================
 
-Each container comes with an initialised OPAM repository pointing to the central repository.  There are [ONBUILD](https://docs.docker.com/engine/reference/builder/#onbuild) triggers to update the OS distribution and OPAM database when a new container is built.  The default user in the container is called `opam`, and `sudo` is configured to allow password-less access to `root`.
+Each container comes with an initialised OPAM repository pointing to the central repository. The default user in the container is called `opam`, and `sudo` is configured to allow password-less access to `root`.
 
 To build an environment for the [Jane Street Core](https://realworldocaml.org/) library on the latest stable OCaml, a simple Dockerfile looks like this:
 
