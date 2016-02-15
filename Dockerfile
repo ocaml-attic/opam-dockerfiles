@@ -19,6 +19,6 @@ RUN git config --global user.email "docker@example.com" && \
   sudo -u opam sh -c "git clone git://github.com/ocaml/opam-repository" && \
   sudo -u opam sh -c "opam init -a -y --comp 4.02.3 /home/opam/opam-repository" && \
   sudo -u opam sh -c "opam install -y camlp4"
-WORKDIR /home/opam/opam-repository
+WORKDIR /home/opam
 RUN sudo -u opam sh -c "opam install -y depext travis-opam"
 ENTRYPOINT [ "opam", "config", "exec", "--" ]
