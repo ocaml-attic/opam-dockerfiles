@@ -24,3 +24,4 @@ RUN git config --global user.email "docker@example.com" && \
 WORKDIR /home/opam
 RUN sudo -u opam sh -c "opam install -y depext travis-opam"
 ENTRYPOINT [ "opam", "config", "exec", "--" ]
+CMD [ "bash" ]
