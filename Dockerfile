@@ -3,8 +3,8 @@
 FROM ocaml/ocaml:debian-stable
 LABEL distro_style="apt" distro="debian" distro_long="debian-stable" arch="x86_64" ocaml_version="4.02.3" opam_version="1.2.2" operatingsystem="linux"
 RUN apt-get -y update && \
-  apt-get -y upgrade && \
-  DEBIAN_FRONTEND=noninterative apt-get -y install aspcud && \
+  DEBIAN_FRONTEND=noninteractive apt-get -y upgrade && \
+  DEBIAN_FRONTEND=noninteractive apt-get -y install aspcud && \
   git clone -b 1.2 git://github.com/ocaml/opam /tmp/opam && \
   sh -c "cd /tmp/opam && make cold && make install && rm -rf /tmp/opam" && \
   echo 'opam ALL=(ALL:ALL) NOPASSWD:ALL' > /etc/sudoers.d/opam && \
