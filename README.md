@@ -41,83 +41,93 @@ Distro | Compiler | Command
 Alpine 3.3 | 4.00.1 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.00.1`
 Alpine 3.3 | 4.01.0 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.01.0`
 Alpine 3.3 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.02.3`
-Alpine 3.3 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.03.0_beta1`
 Alpine 3.3 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.03.0_trunk`
+Alpine 3.3 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.03.0_trunk_flambda`
 CentOS 6 | 4.00.1 &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.00.1`
 CentOS 6 | 4.01.0 &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.01.0`
 CentOS 6 | 4.02.3 &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.02.3`
-CentOS 6 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.03.0_beta1`
 CentOS 6 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.03.0_trunk`
+CentOS 6 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.03.0_trunk_flambda`
 CentOS 7 | 4.00.1 &#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.00.1`
 CentOS 7 | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.01.0`
 CentOS 7 | 4.02.3 &#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.02.3`
-CentOS 7 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.03.0_beta1`
 CentOS 7 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.03.0_trunk`
+CentOS 7 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:centos-7_ocaml-4.03.0_trunk_flambda`
 Debian 7 (Wheezy) | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.00.1`
 Debian 7 (Wheezy) | 4.01.0 &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.01.0`
 Debian 7 (Wheezy) | 4.02.3 &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.02.3`
-Debian 7 (Wheezy) | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.03.0_beta1`
 Debian 7 (Wheezy) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.03.0_trunk`
+Debian 7 (Wheezy) | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:debian-7_ocaml-4.03.0_trunk_flambda`
 Debian 8 (Jessie) | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.00.1`
 Debian 8 (Jessie) | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.01.0`
 Debian 8 (Jessie) | 4.02.3 &#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.02.3`
-Debian 8 (Jessie) | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.03.0_beta1`
 Debian 8 (Jessie) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.03.0_trunk`
+Debian 8 (Jessie) | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:debian-8_ocaml-4.03.0_trunk_flambda`
 Debian 9 (Stretch) | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.00.1`
 Debian 9 (Stretch) | 4.01.0 &#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.01.0`
 Debian 9 (Stretch) | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.02.3`
-Debian 9 (Stretch) | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.03.0_beta1`
 Debian 9 (Stretch) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.03.0_trunk`
+Debian 9 (Stretch) | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:debian-9_ocaml-4.03.0_trunk_flambda`
 Debian Stable | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-stable_ocaml-4.00.1`
 Debian Stable | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:debian-stable_ocaml-4.01.0`
 Debian Stable | 4.02.3 &#127347; | `docker pull ocaml/opam:debian-stable_ocaml-4.02.3`
-Debian Stable | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:debian-stable_ocaml-4.03.0_beta1`
 Debian Stable | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:debian-stable_ocaml-4.03.0_trunk`
+Debian Stable | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:debian-stable_ocaml-4.03.0_trunk_flambda`
 Debian Testing | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-testing_ocaml-4.00.1`
 Debian Testing | 4.01.0 &#127347; | `docker pull ocaml/opam:debian-testing_ocaml-4.01.0`
 Debian Testing | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:debian-testing_ocaml-4.02.3`
-Debian Testing | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:debian-testing_ocaml-4.03.0_beta1`
 Debian Testing | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:debian-testing_ocaml-4.03.0_trunk`
+Debian Testing | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:debian-testing_ocaml-4.03.0_trunk_flambda`
 Debian Unstable | 4.00.1 &#127347; | `docker pull ocaml/opam:debian-unstable_ocaml-4.00.1`
 Debian Unstable | 4.01.0 &#127347; | `docker pull ocaml/opam:debian-unstable_ocaml-4.01.0`
 Debian Unstable | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:debian-unstable_ocaml-4.02.3`
-Debian Unstable | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:debian-unstable_ocaml-4.03.0_beta1`
 Debian Unstable | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:debian-unstable_ocaml-4.03.0_trunk`
+Debian Unstable | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:debian-unstable_ocaml-4.03.0_trunk_flambda`
 Fedora 22 | 4.00.1 &#127347; | `docker pull ocaml/opam:fedora-22_ocaml-4.00.1`
 Fedora 22 | 4.01.0 &#127347; | `docker pull ocaml/opam:fedora-22_ocaml-4.01.0`
 Fedora 22 | 4.02.3 &#127347; | `docker pull ocaml/opam:fedora-22_ocaml-4.02.3`
-Fedora 22 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:fedora-22_ocaml-4.03.0_beta1`
 Fedora 22 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:fedora-22_ocaml-4.03.0_trunk`
+Fedora 22 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:fedora-22_ocaml-4.03.0_trunk_flambda`
 Fedora 23 | 4.00.1 &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.00.1`
 Fedora 23 | 4.01.0 &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.01.0`
 Fedora 23 | 4.02.3 &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.02.3`
-Fedora 23 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.03.0_beta1`
 Fedora 23 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.03.0_trunk`
+Fedora 23 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.03.0_trunk_flambda`
 OracleLinux 7 | 4.00.1 &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.00.1`
 OracleLinux 7 | 4.01.0 &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.01.0`
 OracleLinux 7 | 4.02.3 &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.02.3`
-OracleLinux 7 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.03.0_beta1`
 OracleLinux 7 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.03.0_trunk`
+OracleLinux 7 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.03.0_trunk_flambda`
+Raspbian 7 (Wheezy) | 4.00.1 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.00.1`
+Raspbian 7 (Wheezy) | 4.01.0 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.01.0`
+Raspbian 7 (Wheezy) | 4.02.3 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.02.3`
+Raspbian 7 (Wheezy) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.03.0_trunk`
+Raspbian 7 (Wheezy) | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.03.0_trunk_flambda`
+Raspbian 8 (Jessie) | 4.00.1 &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.00.1`
+Raspbian 8 (Jessie) | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.01.0`
+Raspbian 8 (Jessie) | 4.02.3 &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.02.3`
+Raspbian 8 (Jessie) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.03.0_trunk`
+Raspbian 8 (Jessie) | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.03.0_trunk_flambda`
 Ubuntu 12.04 | 4.00.1 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.00.1`
 Ubuntu 12.04 | 4.01.0 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.01.0`
 Ubuntu 12.04 | 4.02.3 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.02.3`
-Ubuntu 12.04 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.03.0_beta1`
 Ubuntu 12.04 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.03.0_trunk`
+Ubuntu 12.04 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.03.0_trunk_flambda`
 Ubuntu 14.04 | 4.00.1 &#127347; | `docker pull ocaml/opam:ubuntu-14.04_ocaml-4.00.1`
 Ubuntu 14.04 | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-14.04_ocaml-4.01.0`
 Ubuntu 14.04 | 4.02.3 &#127347; | `docker pull ocaml/opam:ubuntu-14.04_ocaml-4.02.3`
-Ubuntu 14.04 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:ubuntu-14.04_ocaml-4.03.0_beta1`
 Ubuntu 14.04 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:ubuntu-14.04_ocaml-4.03.0_trunk`
+Ubuntu 14.04 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:ubuntu-14.04_ocaml-4.03.0_trunk_flambda`
 Ubuntu 15.10 | 4.00.1 &#127347; | `docker pull ocaml/opam:ubuntu-15.10_ocaml-4.00.1`
 Ubuntu 15.10 | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-15.10_ocaml-4.01.0`
 Ubuntu 15.10 | 4.02.3 &#127347; | `docker pull ocaml/opam:ubuntu-15.10_ocaml-4.02.3`
-Ubuntu 15.10 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:ubuntu-15.10_ocaml-4.03.0_beta1`
 Ubuntu 15.10 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:ubuntu-15.10_ocaml-4.03.0_trunk`
+Ubuntu 15.10 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:ubuntu-15.10_ocaml-4.03.0_trunk_flambda`
 Ubuntu 16.04 | 4.00.1 &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.00.1`
 Ubuntu 16.04 | 4.01.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.01.0`
 Ubuntu 16.04 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.02.3`
-Ubuntu 16.04 | 4.03.0+beta1 &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.03.0_beta1`
 Ubuntu 16.04 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.03.0_trunk`
+Ubuntu 16.04 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.03.0_trunk_flambda`
 
 
 Using the Containers
