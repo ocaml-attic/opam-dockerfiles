@@ -98,16 +98,6 @@ OracleLinux 7 | 4.01.0 &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4
 OracleLinux 7 | 4.02.3 &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.02.3`
 OracleLinux 7 | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.03.0_trunk`
 OracleLinux 7 | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.03.0_trunk_flambda`
-Raspbian 7 (Wheezy) | 4.00.1 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.00.1`
-Raspbian 7 (Wheezy) | 4.01.0 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.01.0`
-Raspbian 7 (Wheezy) | 4.02.3 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.02.3`
-Raspbian 7 (Wheezy) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.03.0_trunk`
-Raspbian 7 (Wheezy) | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.03.0_trunk_flambda`
-Raspbian 8 (Jessie) | 4.00.1 &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.00.1`
-Raspbian 8 (Jessie) | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.01.0`
-Raspbian 8 (Jessie) | 4.02.3 &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.02.3`
-Raspbian 8 (Jessie) | 4.03.0+trunk &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.03.0_trunk`
-Raspbian 8 (Jessie) | 4.03.0+trunk+flambda &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.03.0_trunk_flambda`
 Ubuntu 12.04 | 4.00.1 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.00.1`
 Ubuntu 12.04 | 4.01.0 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.01.0`
 Ubuntu 12.04 | 4.02.3 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.02.3`
