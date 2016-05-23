@@ -28,6 +28,8 @@ CentOS | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:centos`
 Debian | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:debian`
 Fedora | 4.02.2 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:fedora`
 OracleLinux | 4.02.3 &#127347; | `docker pull ocaml/opam:oraclelinux`
+Raspbian | 3.12.1 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:raspbian`
+Raspbian | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:raspbian`
 Ubuntu | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:ubuntu`
 
 There are also individual containers available for each combination
@@ -98,6 +100,16 @@ OracleLinux 7 | 4.01.0 &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4
 OracleLinux 7 | 4.02.3 &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.02.3`
 OracleLinux 7 | 4.03.0 &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.03.0`
 OracleLinux 7 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:oraclelinux-7_ocaml-4.03.0_flambda`
+Raspbian 7 (Wheezy) | 4.00.1 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.00.1`
+Raspbian 7 (Wheezy) | 4.01.0 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.01.0`
+Raspbian 7 (Wheezy) | 4.02.3 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.02.3`
+Raspbian 7 (Wheezy) | 4.03.0 &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.03.0`
+Raspbian 7 (Wheezy) | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:raspbian-7_ocaml-4.03.0_flambda`
+Raspbian 8 (Jessie) | 4.00.1 &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.00.1`
+Raspbian 8 (Jessie) | 4.01.0 &#127362;&#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.01.0`
+Raspbian 8 (Jessie) | 4.02.3 &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.02.3`
+Raspbian 8 (Jessie) | 4.03.0 &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.03.0`
+Raspbian 8 (Jessie) | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:raspbian-8_ocaml-4.03.0_flambda`
 Ubuntu 12.04 | 4.00.1 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.00.1`
 Ubuntu 12.04 | 4.01.0 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.01.0`
 Ubuntu 12.04 | 4.02.3 &#127347; | `docker pull ocaml/opam:ubuntu-12.04_ocaml-4.02.3`
