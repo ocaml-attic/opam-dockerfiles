@@ -24,6 +24,8 @@ The latest stable distributions are summarised below.  The default OCaml version
 Distribution | Available Switches | Command
 ------------ | ------------------ | -------
 Alpine | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine`
+Alpine armhf | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-armhf`
+Alpine armhf | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-armhf`
 CentOS | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:centos`
 Debian | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:debian`
 Fedora | 4.02.2 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:fedora`
@@ -55,6 +57,21 @@ Alpine Stable (3.4) | 4.01.0 &#127347; | `docker pull ocaml/opam:alpine_ocaml-4.
 Alpine Stable (3.4) | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine_ocaml-4.02.3`
 Alpine Stable (3.4) | 4.03.0 &#127347; | `docker pull ocaml/opam:alpine_ocaml-4.03.0`
 Alpine Stable (3.4) | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:alpine_ocaml-4.03.0_flambda`
+Alpine armhf 3.4 | 4.00.1 &#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.00.1`
+Alpine armhf 3.4 | 4.00.1 &#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.00.1`
+Alpine armhf 3.4 | 4.01.0 &#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.01.0`
+Alpine armhf 3.4 | 4.01.0 &#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.01.0`
+Alpine armhf 3.4 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.02.3`
+Alpine armhf 3.4 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.02.3`
+Alpine armhf 3.4 | 4.03.0 &#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.03.0`
+Alpine armhf 3.4 | 4.03.0 &#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.03.0`
+Alpine armhf 3.4 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.03.0_flambda`
+Alpine armhf 3.4 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:alpine-armhf-3.4_ocaml-4.03.0_flambda`
+Alpine armhf Stable (3.4) | 4.00.1 &#127347; | `docker pull ocaml/opam:alpine-armhf_ocaml-4.00.1`
+Alpine armhf Stable (3.4) | 4.01.0 &#127347; | `docker pull ocaml/opam:alpine-armhf_ocaml-4.01.0`
+Alpine armhf Stable (3.4) | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-armhf_ocaml-4.02.3`
+Alpine armhf Stable (3.4) | 4.03.0 &#127347; | `docker pull ocaml/opam:alpine-armhf_ocaml-4.03.0`
+Alpine armhf Stable (3.4) | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:alpine-armhf_ocaml-4.03.0_flambda`
 CentOS 6 | 4.00.1 &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.00.1`
 CentOS 6 | 4.01.0 &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.01.0`
 CentOS 6 | 4.02.3 &#127347; | `docker pull ocaml/opam:centos-6_ocaml-4.02.3`
