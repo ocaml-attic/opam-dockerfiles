@@ -20,7 +20,7 @@ RUN mkdir .ssh && \
   chmod 700 .ssh && \
   git config --global user.email "docker@example.com" && \
   git config --global user.name "Docker CI" && \
-  sudo -u opam sh -c "git clone git://github.com/ocaml/opam-repository" && \
+  sudo -u opam sh -c "git clone -b master git://github.com/ocaml/opam-repository" && \
   sudo -u opam sh -c "opam init -a -y --comp 4.02.3 /home/opam/opam-repository" && \
   sudo -u opam sh -c "opam install -y camlp4" && \
   sudo -u opam sh -c "opam pin add depext https://github.com/ocaml/opam-depext.git" && \
