@@ -25,7 +25,6 @@ Distribution | Available Switches | Command
 ------------ | ------------------ | -------
 Alpine | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine`
 Alpine armhf | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-armhf`
-Alpine armhf | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-armhf`
 CentOS | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:centos`
 Debian | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:debian`
 Fedora | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:fedora`
