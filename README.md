@@ -25,10 +25,9 @@ Distribution | Available Switches | Command
 ------------ | ------------------ | -------
 Alpine | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine`
 Alpine armhf | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-armhf`
-Alpine armhf | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-armhf`
 CentOS | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:centos`
 Debian | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:debian`
-Fedora | 4.02.2 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:fedora`
+Fedora | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:fedora`
 OpenSUSE | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:opensuse`
 OracleLinux | 4.02.3 &#127347; | `docker pull ocaml/opam:oraclelinux`
 Raspbian | 4.01.0 &#127362;, 4.02.3 &#127347; | `docker pull ocaml/opam:raspbian`
@@ -122,6 +121,11 @@ Fedora 23 | 4.01.0 &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.01.0`
 Fedora 23 | 4.02.3 &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.02.3`
 Fedora 23 | 4.03.0 &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.03.0`
 Fedora 23 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:fedora-23_ocaml-4.03.0_flambda`
+Fedora 24 | 4.00.1 &#127347; | `docker pull ocaml/opam:fedora-24_ocaml-4.00.1`
+Fedora 24 | 4.01.0 &#127347; | `docker pull ocaml/opam:fedora-24_ocaml-4.01.0`
+Fedora 24 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:fedora-24_ocaml-4.02.3`
+Fedora 24 | 4.03.0 &#127347; | `docker pull ocaml/opam:fedora-24_ocaml-4.03.0`
+Fedora 24 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:fedora-24_ocaml-4.03.0_flambda`
 OpenSUSE 42.1 | 4.00.1 &#127347; | `docker pull ocaml/opam:opensuse-42.1_ocaml-4.00.1`
 OpenSUSE 42.1 | 4.01.0 &#127347; | `docker pull ocaml/opam:opensuse-42.1_ocaml-4.01.0`
 OpenSUSE 42.1 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:opensuse-42.1_ocaml-4.02.3`
