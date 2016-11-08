@@ -22,7 +22,6 @@ RUN mkdir .ssh && \
   git config --global user.name "Docker CI" && \
   sudo -u opam sh -c "git clone -b master git://github.com/ocaml/opam-repository" && \
   sudo -u opam sh -c "opam init -a -y --comp 4.03.0 /home/opam/opam-repository" && \
-  sudo -u opam sh -c "opam install -y camlp4" && \
   sudo -u opam sh -c "opam install -y depext travis-opam"
 ENTRYPOINT [ "opam", "config", "exec", "--" ]
 CMD [ "bash" ]
