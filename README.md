@@ -62,7 +62,7 @@ Alpine 3.5 | 4.01.0 &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.01.0`
 Alpine 3.5 | 4.02.3 &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.02.3`
 Alpine 3.5 | 4.03.0 &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.03.0`
 Alpine 3.5 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.03.0_flambda`
-Alpine 3.5 | 4.04.0 &#127362;&#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.04.0`
+Alpine 3.5 | 4.04.0 &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.04.0`
 Alpine 3.5 | 4.04.0+flambda &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.04.0_flambda`
 Alpine 3.5 | 4.05.0 &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.05.0`
 Alpine 3.5 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.05.0_flambda`
