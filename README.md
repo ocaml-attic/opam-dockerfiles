@@ -228,6 +228,15 @@ Ubuntu 16.04 | 4.04.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.0
 Ubuntu 16.04 | 4.04.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.04.0_flambda`
 Ubuntu 16.04 | 4.05.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.05.0`
 Ubuntu 16.04 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.05.0_flambda`
+Ubuntu 16.10 | 4.00.1 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.00.1`
+Ubuntu 16.10 | 4.01.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.01.0`
+Ubuntu 16.10 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.02.3`
+Ubuntu 16.10 | 4.03.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.03.0`
+Ubuntu 16.10 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.03.0_flambda`
+Ubuntu 16.10 | 4.04.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.04.0`
+Ubuntu 16.10 | 4.04.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.04.0_flambda`
+Ubuntu 16.10 | 4.05.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.05.0`
+Ubuntu 16.10 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.05.0_flambda`
 
 
 Using the Containers
