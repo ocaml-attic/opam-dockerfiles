@@ -248,7 +248,7 @@ To build an environment for the [Jane Street Core](https://realworldocaml.org/) 
 
 ```
 FROM ocaml/opam
-opam depext -i core
+RUN opam depext -i core
 ```
 You can build and use this image locally for development by saving the Dockerfile and:
 
@@ -261,8 +261,8 @@ You can also use the Docker [volume sharing](https://docs.docker.com/engine/refe
 
 ```
 FROM ocaml/opam:ubuntu-15.10_ocaml-4.02.3
-opam remote add dev git://github.com/mirage/mirage-dev
-opam depext -i mirage
+RUN opam remote add dev git://github.com/mirage/mirage-dev
+RUN opam depext -i mirage
 ```
 
 
