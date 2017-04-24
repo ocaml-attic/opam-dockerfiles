@@ -234,6 +234,19 @@ Fedora 24 | 4.05.0 &#127347; | `docker pull ocaml/opam:fedora-24_ocaml-4.05.0`
 Fedora 24 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:fedora-24_ocaml-4.05.0_flambda`
 Fedora 24 | 4.06.0 &#127347; | `docker pull ocaml/opam:fedora-24_ocaml-4.06.0`
 Fedora 24 | 4.06.0+flambda &#127347; | `docker pull ocaml/opam:fedora-24_ocaml-4.06.0_flambda`
+Fedora 25 | 4.00.1 &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.00.1`
+Fedora 25 | 4.01.0 &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.01.0`
+Fedora 25 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.02.3`
+Fedora 25 | 4.03.0 &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.03.0`
+Fedora 25 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.03.0_flambda`
+Fedora 25 | 4.04.0 &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.04.0`
+Fedora 25 | 4.04.0+flambda &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.04.0_flambda`
+Fedora 25 | 4.04.1 &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.04.1`
+Fedora 25 | 4.04.1+flambda &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.04.1_flambda`
+Fedora 25 | 4.05.0 &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.05.0`
+Fedora 25 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.05.0_flambda`
+Fedora 25 | 4.06.0 &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.06.0`
+Fedora 25 | 4.06.0+flambda &#127347; | `docker pull ocaml/opam:fedora-25_ocaml-4.06.0_flambda`
 OpenSUSE 42.1 | 4.00.1 &#127347; | `docker pull ocaml/opam:opensuse-42.1_ocaml-4.00.1`
 OpenSUSE 42.1 | 4.01.0 &#127347; | `docker pull ocaml/opam:opensuse-42.1_ocaml-4.01.0`
 OpenSUSE 42.1 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:opensuse-42.1_ocaml-4.02.3`
@@ -325,6 +338,19 @@ Ubuntu 16.10 | 4.05.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.0
 Ubuntu 16.10 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.05.0_flambda`
 Ubuntu 16.10 | 4.06.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.06.0`
 Ubuntu 16.10 | 4.06.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.06.0_flambda`
+Ubuntu 17.04 | 4.00.1 &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.00.1`
+Ubuntu 17.04 | 4.01.0 &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.01.0`
+Ubuntu 17.04 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.02.3`
+Ubuntu 17.04 | 4.03.0 &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.03.0`
+Ubuntu 17.04 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.03.0_flambda`
+Ubuntu 17.04 | 4.04.0 &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.04.0`
+Ubuntu 17.04 | 4.04.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.04.0_flambda`
+Ubuntu 17.04 | 4.04.1 &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.04.1`
+Ubuntu 17.04 | 4.04.1+flambda &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.04.1_flambda`
+Ubuntu 17.04 | 4.05.0 &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.05.0`
+Ubuntu 17.04 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.05.0_flambda`
+Ubuntu 17.04 | 4.06.0 &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.06.0`
+Ubuntu 17.04 | 4.06.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.06.0_flambda`
 
 
 Using the Containers

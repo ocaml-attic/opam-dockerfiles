@@ -6,7 +6,7 @@ RUN apt-get -y update && \
   DEBIAN_FRONTEND=noninteractive apt-get -y upgrade && \
   DEBIAN_FRONTEND=noninteractive apt-get -y install aspcud && \
   git clone -b 1.2 git://github.com/ocaml/opam /tmp/opam && \
-  sh -c "cd /tmp/opam && make cold && make install && rm -rf /tmp/opam" && \
+  sh -c "cd /tmp/opam && make cold && make install && for w in build install remove do mkdir -p /usr/local/share/opam && cp shell/wrap-$w.sh /usr/local/share/opam && echo 'wrap-$w-commands: \"/usr/local/share/opam/wrap-$w.sh\"' >> /etc/opamrc || true; done && rm -rf /tmp/opam" && \
   echo 'opam ALL=(ALL:ALL) NOPASSWD:ALL' > /etc/sudoers.d/opam && \
   chmod 440 /etc/sudoers.d/opam && \
   chown root:root /etc/sudoers.d/opam && \
