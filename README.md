@@ -39,30 +39,6 @@ There are also individual containers available for each combination
 
 Distro | Compiler | Command
 ------ | -------- | -------
-Alpine 3.3 | 4.01.0 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.01.0`
-Alpine 3.3 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.02.3`
-Alpine 3.3 | 4.03.0 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.03.0`
-Alpine 3.3 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.03.0_flambda`
-Alpine 3.3 | 4.04.0 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.04.0`
-Alpine 3.3 | 4.04.1 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.04.1`
-Alpine 3.3 | 4.04.2 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.04.2`
-Alpine 3.3 | 4.04.2+flambda &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.04.2_flambda`
-Alpine 3.3 | 4.05.0 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.05.0`
-Alpine 3.3 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.05.0_flambda`
-Alpine 3.3 | 4.06.0 &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.06.0`
-Alpine 3.3 | 4.06.0+flambda &#127347; | `docker pull ocaml/opam:alpine-3.3_ocaml-4.06.0_flambda`
-Alpine 3.4 | 4.01.0 &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.01.0`
-Alpine 3.4 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.02.3`
-Alpine 3.4 | 4.03.0 &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.03.0`
-Alpine 3.4 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.03.0_flambda`
-Alpine 3.4 | 4.04.0 &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.04.0`
-Alpine 3.4 | 4.04.1 &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.04.1`
-Alpine 3.4 | 4.04.2 &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.04.2`
-Alpine 3.4 | 4.04.2+flambda &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.04.2_flambda`
-Alpine 3.4 | 4.05.0 &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.05.0`
-Alpine 3.4 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.05.0_flambda`
-Alpine 3.4 | 4.06.0 &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.06.0`
-Alpine 3.4 | 4.06.0+flambda &#127347; | `docker pull ocaml/opam:alpine-3.4_ocaml-4.06.0_flambda`
 Alpine 3.5 | 4.01.0 &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.01.0`
 Alpine 3.5 | 4.02.3 &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.02.3`
 Alpine 3.5 | 4.03.0 &#127347; | `docker pull ocaml/opam:alpine-3.5_ocaml-4.03.0`
@@ -327,18 +303,6 @@ Ubuntu 16.04 | 4.05.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.0
 Ubuntu 16.04 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.05.0_flambda`
 Ubuntu 16.04 | 4.06.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.06.0`
 Ubuntu 16.04 | 4.06.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.04_ocaml-4.06.0_flambda`
-Ubuntu 16.10 | 4.01.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.01.0`
-Ubuntu 16.10 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.02.3`
-Ubuntu 16.10 | 4.03.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.03.0`
-Ubuntu 16.10 | 4.03.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.03.0_flambda`
-Ubuntu 16.10 | 4.04.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.04.0`
-Ubuntu 16.10 | 4.04.1 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.04.1`
-Ubuntu 16.10 | 4.04.2 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.04.2`
-Ubuntu 16.10 | 4.04.2+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.04.2_flambda`
-Ubuntu 16.10 | 4.05.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.05.0`
-Ubuntu 16.10 | 4.05.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.05.0_flambda`
-Ubuntu 16.10 | 4.06.0 &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.06.0`
-Ubuntu 16.10 | 4.06.0+flambda &#127347; | `docker pull ocaml/opam:ubuntu-16.10_ocaml-4.06.0_flambda`
 Ubuntu 17.04 | 4.01.0 &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.01.0`
 Ubuntu 17.04 | 4.02.3 &#127362;&#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.02.3`
 Ubuntu 17.04 | 4.03.0 &#127347; | `docker pull ocaml/opam:ubuntu-17.04_ocaml-4.03.0`
